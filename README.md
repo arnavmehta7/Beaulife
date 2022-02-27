@@ -18,9 +18,12 @@ This is made to help people know what's wrong in their life and what they can do
 ### UI/UX
 ![UI](./UI.png)
 The UI/UX is made using Material UI, react js, html,css, and scss.
+![Resoonse](./Response.png)
 
-### Todo , after completting the projects
+
+### Todo 
 - [x] Make the Website
+- [x] Response Component 
 - [ ] Make an AI model
 - [ ] Make API
 - [ ] Integrate the API
